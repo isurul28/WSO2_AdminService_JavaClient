@@ -1,0 +1,6 @@
+ServiceName:echo ServiceStatus:false
+ServiceName:myproxy ServiceStatus:false
+ServiceName:Version ServiceStatus:true
+ServiceName:wso2carbon-sts ServiceStatus:true
+ServiceName:ID_gg ServiceStatus:true
+ServiceName:ID_testme ServiceStatus:true
