@@ -27,7 +27,7 @@ public class Main {
 		
 		/*
 		 * System.setProperty("javax.net.ssl.trustStore",
-		 * "/home/isurul/Documents/WSO2/Ticket/PRINCETONUNISUB-280/wso2ei-6.6.0/repository/resources/security/wso2carbon.jks"
+		 * "/home/isurul/Documents/test/Ticket/test/wso2ei-6.6.0/repository/resources/security/wso2carbon.jks"
 		 * ); System.setProperty("javax.net.ssl.trustStorePassword", "wso2carbon");
 		 */
 		 
